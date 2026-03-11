@@ -1,0 +1,7 @@
+# Xcode project is generated from project.yml — do not commit
+Jot.xcodeproj/
+DerivedData/
+.build/
+
+# macOS
+.DS_Store
